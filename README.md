@@ -89,12 +89,13 @@ npm run dev
 
 Open the local URL displayed by Vite in your browser.
 
-## Deployment
+## Live Demo
 
-The backend and frontend are deployed using Render.
+**Try MoveMind AI:** https://movemind-ai-1.onrender.com/
 
-- **Live Application:** Add your public frontend URL here.
-- **GitHub Repository:** https://github.com/shrirakshashenoy197/MoveMind-AI
+## GitHub Repository
+
+https://github.com/shrirakshashenoy197/MoveMind-AI
 
 ## Limitations
 
