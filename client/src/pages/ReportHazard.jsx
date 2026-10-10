@@ -47,7 +47,7 @@ function ReportHazard() {
     event.preventDefault();
 
     try {
-      const response = await fetch("http://localhost:5000/api/hazards", {
+      const response = await fetch("http://movemind-ai.onrender.com/api/hazards", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

@@ -14,7 +14,7 @@ function RouteComparison() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/hazards")
+    fetch("http://movemind-ai.onrender.com/api/hazards")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch hazards");
