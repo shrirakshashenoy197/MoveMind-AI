@@ -142,8 +142,9 @@ app.get("/api/hazards", (req, res) => {
 });
 
 // Start server
-const PORT = 5000;
+// Start server
+const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
-  console.log(`MoveMind AI server running on http://localhost:${PORT}`);
+  console.log(`MoveMind AI server running on port ${PORT}`);
 });
