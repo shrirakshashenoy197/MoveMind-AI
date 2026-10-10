@@ -91,7 +91,9 @@ Open the local URL displayed by Vite in your browser.
 
 ## Live Demo
 
-**Try MoveMind AI:** https://movemind-ai-1.onrender.com/
+**Try MoveMind AI:** 
+http://localhost:5173/
+https://movemind-ai-1.onrender.com/
 
 ## GitHub Repository
 
